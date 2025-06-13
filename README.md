@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning advanced Android & Firebase
 - 👯 I’m looking to collaborate on Android utility apps and real-world projects
 - 💬 Ask me about Java, Android Studio, Firebase, and Flutter
-- 📫 Reach me at: dharmeshjogadiya@email.com
-- 🌐 Portfolio: [My Website](https://your-portfolio-link.com)
+- 📫 Reach me at: dharmeshjogadiya78@email.com
+- 🌐 Portfolio: [My Website]([https://your-portfolio-link.com](https://dharmeshjogadiya.github.io/portfolio/))
 
 ---
 
