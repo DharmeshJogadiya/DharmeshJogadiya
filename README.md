@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Android utility apps and real-world projects
 - 💬 Ask me about Java, Android Studio, Firebase, and Flutter
 - 📫 Reach me at: dharmeshjogadiya78@email.com
-- 🌐 Portfolio: [My Website]([https://your-portfolio-link.com](https://dharmeshjogadiya.github.io/portfolio/))
+- 🌐 Portfolio: [My Website]((https://dharmeshjogadiya.github.io/portfolio/))
 
 ---
 
